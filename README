@@ -1,0 +1,12 @@
+To start the project: npm install
+To run it: node index.js
+
+Example of GEO data in mongodb. Practicing Maps and Mongoose.
+You can create new places by clicking on the map, enter a name, submit and refresh the page.
+   http://geojson.io/#map=4/50.51/22.02
+ 
+1. To do: create a virtual of the Schema and find out if a point in the map is inside Europe or  not.
+2. Implement Mongoose validation  
+3. Implement async validation with callback
+
+   
